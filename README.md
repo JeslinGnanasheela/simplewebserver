@@ -42,7 +42,7 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-![OUTPUT](./image/webserver.png)
+![OUTPUT](./images/webserver.png)
 
 ## RESULT:
 Program is done
